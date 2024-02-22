@@ -1,5 +1,5 @@
-## The project can be build by maven and following cammand:
-### mvn clean package
+The project can be build by maven and following cammand:
+- mvn clean package
 
 ## After building the package, For running the Application you must use following command(you need java 17+):
 ### java -jar location-clustring-0.0.1-SNAPSHOT.jar
