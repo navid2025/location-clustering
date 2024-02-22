@@ -4,7 +4,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LocationClustringApplicationTests {
+//Todo: unit test and integration test should be write
+class LocationClusteringApplicationTests {
 
     @Test
     void contextLoads() {
